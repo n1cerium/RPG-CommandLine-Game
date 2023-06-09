@@ -1,0 +1,27 @@
+﻿  Archer.cpp
+  Armor.cpp
+  ArmorSet.cpp
+  BodyArmor.cpp
+  Boots.cpp
+  Bow.cpp
+  Character.cpp
+  Fairy.cpp
+  Gargoyle.cpp
+  Golem.cpp
+  Helmet.cpp
+  Hound.cpp
+  Inventory.cpp
+  Monster.cpp
+  Ring.cpp
+  Skill.cpp
+  SkillSet.cpp
+  Staff.cpp
+  Sword.cpp
+  Warrior.cpp
+  Generating Code...
+  Compiling...
+  Weapon.cpp
+  Wizard.cpp
+  MainSource.cpp
+  Generating Code...
+  CMDRPGGame.vcxproj -> C:\Users\Sarmiento PC\Desktop\CMDRPGGame\x64\Debug\CMDRPGGame.exe
